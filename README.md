@@ -11,3 +11,4 @@ This project was developed as part of a hackathon under the theme “Reimagining
 . Beacon/Wi-Fi Positioning: Determines user’s current position indoors where GPS is unreliable.
 .Pathfinding Algorithm: Optimized shortest path calculation using Dijkstra’s algorithm or A*.
 .Dynamic Updates: Adjusts routes in real time based on user movement.
+Author-Shravya Vasa
